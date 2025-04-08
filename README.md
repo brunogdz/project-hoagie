@@ -40,5 +40,5 @@ backend/ – APIs, MongoDB models, DTOs, services
 
 ### DB Schema
 
-![Database Schema]("DB Schema.png")
+![Database Schema](./DBSchema.png)
 
