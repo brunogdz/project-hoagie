@@ -1,15 +1,5 @@
 # Hoagie App (Frontend - React Native)
 
-## Features
-
-- **Paginated Hoagie List** — Infinite scrolling through 5-by-5 hoagies.
-- **Create & Edit Hoagies** — Name it, choose ingredients, and add an image.
-- **Comment System** — See total comment count, Instagram-style "view all" toggle, post replies.
-- **Collaborator Support** — View who helped build the sandwich.
-- **Polished UI** — Smooth animations, gestures, and mobile-friendly styling.
-- **Auth Support** — Basic login/logout with user-based actions.
-- **Recoil + Redux** — Global state management for auth, UI, and data refresh triggers.
-
 ## Setup Instructions
 
 > Prerequisites:
@@ -29,6 +19,16 @@ npm install
 ```bash
 expo start
 ```
+
+## Features
+
+- **Paginated Hoagie List** — Infinite scrolling through 5-by-5 hoagies.
+- **Create & Edit Hoagies** — Name it, choose ingredients, and add an image.
+- **Comment System** — See total comment count, Instagram-style "view all" toggle, post replies.
+- **Collaborator Support** — View who helped build the sandwich.
+- **Polished UI** — Smooth animations, gestures, and mobile-friendly styling.
+- **Auth Support** — Basic login/logout with user-based actions.
+- **Recoil + Redux** — Global state management for auth, UI, and data refresh triggers.
 
 ### Tech Stack
 
